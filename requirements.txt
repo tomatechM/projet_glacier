@@ -8,3 +8,8 @@ geopandas
 pyogrio
 shapely
 pyproj
+
+pyarrow
+contextily
+plotly
+ipywidgets
